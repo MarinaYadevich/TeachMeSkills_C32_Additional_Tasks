@@ -1,4 +1,5 @@
-# Дополнительные задания:
+# Additional tasks:
+
 Task 1.
 The user enters a three-digit number.
 The program must add up the digits that make up this number.
